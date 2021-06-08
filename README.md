@@ -26,6 +26,6 @@ ruta: pegaremos la direccion en donde se encuentre el ejecutable
 ## Evidencias
 
 ### Imagen de entrada:  
-![alt text](https://github.com/tavo110699/ej1_PS_morse/blob/main/evidencias/img_entrada.png)  
+![alt text](https://github.com/tavo110699/ej3_PS_objetos/blob/main/evidencias/imgEntrada.png)  
 ### Imagen de Salida:  
-![alt text](https://github.com/tavo110699/ej1_PS_morse/blob/main/evidencias/imgSalida.png)
+![alt text](https://github.com/tavo110699/ej3_PS_objetos/blob/main/evidencias/img_Salida.png)
